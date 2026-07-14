@@ -18,4 +18,3 @@
 ## 문의
 - gunwoo8777@gmail.com
 - 010-6710-8777
-tiktok-developers-site-verification=fCbgcpRgnzmh2J91d2fOQ5ND1zXM8n5c
