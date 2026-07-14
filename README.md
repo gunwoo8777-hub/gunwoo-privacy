@@ -1,3 +1,4 @@
+[tiktokfCbgcpRgnzmh2J91d2fOQ5ND1zXM8n5c (1).txt](https://github.com/user-attachments/files/30000093/tiktokfCbgcpRgnzmh2J91d2fOQ5ND1zXM8n5c.1.txt)
 # 개인정보처리방침 (Privacy Policy)
 
 건우공인중개사사무소는 이용자의 개인정보를 중요시하며,
@@ -18,3 +19,4 @@
 ## 문의
 - gunwoo8777@gmail.com
 - 010-6710-8777
+tiktok-developers-site-verification=fCbgcpRgnzmh2J91d2fOQ5ND1zXM8n5c
